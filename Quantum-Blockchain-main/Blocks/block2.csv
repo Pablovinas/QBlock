@@ -1,0 +1,6 @@
+Node,Old Wallet,Transaction 3,Transaction 4,New Wallet,Random number,prev_fidelity
+1,22,0,0,23.0,01011,0
+2,20,1,0,21.2,10110,0.3
+3,15,0,0,15.2,11100,0.4
+4,23,0,5,28.2,00000,0.5
+5,20,-1,-5,14.2,10111,0.8
